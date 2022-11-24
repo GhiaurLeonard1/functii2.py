@@ -1,0 +1,64 @@
+COMPILA = traduce codul din sintaxa unui limbaj de proigramare in mashine language
+Python - loosly typed nume = "Leo"
+Java - strongly typed String nume = "Leo"
+IDE (integrating development environment)-un fel de word mai smecher pentru programatori
+Pycharm -python
+Intelliji- java
+
+Variabile - valori tinute in zona de memorie
+tiputi de date
+string - sir de caractere delimitate de ''/""
+Char-un singur caracter(Java)
+byte
+short
+int - numere intregi
+long- este ca un int mai lung
+float - numere zecimale
+double-numere zecimale(Java)
+boolean- True/False
+
+Operatori
+
+atribuire
+logici
+aritmetici
+de comparare
+
+flow control
+if else,swith
+
+Structuri de date
+array-
+lista-
+tuplu-
+set-
+
+map
+dict
+cheie valoare
+cnp:nume
+elev:nota
+
+loop
+while-repeta un bloc de linii de cod atata timp cat conditia este True 
+for - se foloseste cand stim cate repetari vrem sa facem si parcurge array cu ajutorul lui i(index)
+
+for each - pentru fiecare masina din masini
+
+
+functii
+chrome shortcut - masina de tocat carne
+myFunc(aici punem introduce,int-uri,string-uri, /carne de vita, carne de pui, nuci, etc.)
+dam la manivela
+return - 1 singur - carne tocata
+variabila(bol,cutie) = carne tocata--doar daca are return putem salva intr-o variabila
+tema: avand 3 numere , returnati pe cel mai mare
+
+Site+ portofoliu(github)
+
+Baze de date.
+
+//mosteniri
+    //polimorphism
+    //encapsulation
+    //abstractisation
